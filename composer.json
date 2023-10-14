@@ -1,0 +1,18 @@
+{
+    "name": "fhsinchy/inspire",
+    "autoload": {
+        "psr-4": {
+            "Fhsinchy\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "muhibahmedaljunied",
+            "email": "muhibalmuhib10@gmail.com"
+        }
+    ],
+    "require": {
+        
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
